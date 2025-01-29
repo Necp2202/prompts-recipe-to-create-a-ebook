@@ -1,10 +1,10 @@
-# Projeto EBOOK Gerado por I.A.s - 
+# Projeto EBOOK Gerado por I.A.s - Futuro em suas mãos: como transformar seu tempo em resultados
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Craiyon AI](https://www.craiyon.com/))** para criar a arte visual do e-book;
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) ** para a criação do e-book.
 
 ## 🧠 Prompts
 
